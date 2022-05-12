@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace Chat.Lib.TcpLib { };
+namespace Chat.Lib.TcpLib;
 
 public class TcpClient : Tcp
 {

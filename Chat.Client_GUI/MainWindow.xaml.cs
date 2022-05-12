@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using System.Windows;
+using Chat.Lib;
 using Chat.Lib.TcpLib;
 
 namespace Chat.Client_GUI

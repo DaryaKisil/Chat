@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using System.Net.Sockets;
 
-namespace Chat.Lib.TcpLib { };
+namespace Chat.Lib.TcpLib;
 
 public class TcpServer : Tcp
 {
