@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace Chat.Lib { };
+namespace Chat.Lib;
 
 public record Config
 {
